@@ -17,3 +17,4 @@ def reverse_2(num):
 a = [1234, 5678, 4324243]
 for i in a:
     print(reverse_1(i), reverse_2(i))
+

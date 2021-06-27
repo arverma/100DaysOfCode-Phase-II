@@ -5,3 +5,5 @@
 
 ### Day-2
 1. [Generate objects in an S3 bucket.](Day-2/a.py)
+2. [Get all records of the dynamodb table where the FilterExpression holds true](Day-2/b.py)
+3. [Bulk upload and delete in DynamoDB](Day-2/c.py)

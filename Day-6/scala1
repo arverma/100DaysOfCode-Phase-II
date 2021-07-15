@@ -1,0 +1,14 @@
+1. What is closure?
+2. What is a type class in Scala?
+3. List Vs Array in Scala?
+4. Scala is case insensitive. Identifier Name and name are the same thing?
+5. What does type inference means?
+6. What is Scala programming paradigm?
+7. We don't need to pass these parameters in when calling
+8. We can have static member in class
+9. Every class in scala Inherits from a super class. Implicitly this is scala.AnyRef
+10. UNIT is a data type in Scala. It pertains to no meaningful information
+11. Iterator in Scala
+12. Class inheriting from a trait and implementing its interface all codes in it
+13. how to define function in scala
+14. Vector in Scala

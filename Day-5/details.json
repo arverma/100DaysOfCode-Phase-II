@@ -1,0 +1,96 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "2Lax_aHzsPkeCf-CDppuvORKfoE",
+    "items": [{
+        "kind": "youtube#video",
+        "etag": "wYvToqmDdQKLNiLx_qDMMSEp1IY",
+        "id": "gfDE2a7MKjA",
+        "snippet": {
+            "publishedAt": "2020-09-24T11: 34: 17Z",
+            "channelId": "UCeVMnSShP_Iviwkknt83cww",
+            "title": "Python Tutorial For Beginners In Hindi (With Notes) 🔥",
+            "description": "Learn Python One Video in Hindi: This Python Programming in Hindi tutorial is a complete python course in Hindi comprising of 13 Python chapters and 3 Python Projects. After watching this course you can learn Python programming easily in Hindi. This Python programming course for beginners in Hindi is designed keeping in mind the current trend and recent changes in Python. This course is designed to teach Python to beginners making it one of the best sources to learn python in Hindi for beginners. Get ready to learn python programming in a fun way and make sure to download the python notes which are included with this video. Hope you enjoy this course on python programming for beginners in Hindi.\nDownload Python in Hindi Notes & Other Material: \nhttps: //www.codewithharry.com/videos/python-tutorial-easy-for-beginners \n►TimeStamps:\nCourse Logistics: 00:00:00\nChapter 0 - Introduction: 00:08:58\nChapter 1 - Modules, Comments & Pip: 00:14:17\nChapter 1 - Practice Set: 00:33:10\nChapter 2 - Variables & Data Types: 00:44:35\nChapter 2 - Practice Set: 01:25:10\nChapter 3 - Strings: 01:39:10\nChapter 3 - Practice Set: 02:16:56\nChapter 4 - Lists & Tuples: 02:35:04\nChapter 4 - Practice Set: 03:07:10\nChapter 5 - Dictionary & Sets: 03:20:12\nChapter 5 - Practice Set: 03:57:25\nChapter 6 - Conditional Expressions: 04:19:21\nChapter 6 - Practice Set: 04:48:53\nChapter 7 - Loops in Python: 05:14:34\nChapter 7 - Practice Set: 05:45:11\nChapter 8 - Functions & Recursion: 06:07:35\nChapter 8 - Practice Set: 06:36:28\nProject 1 - Snake, Water, Gun Game: 06:52:30\nChapter 9 - File I/O: 07:06:55\nChapter 9 - Practice Set: 07:28:11\nChapter 10 - Object Oriented Programming: 08:08:38\nChapter 10 - Practice Set: 09:17:22\nChapter 11 - Inheritance: 09:48:30\nChapter 11 - Practice Set: 10:55:24\nProject 2 - The Perfect Guess  11:37:01\n\nPart 2 of this video: https://www.youtube.com/watch?v=61a7UkDO50s\n►Covered in Part 2 of this Video:\nChapter 12 - Advanced Python 1\nChapter 12 - Practice Set\nChapter 13 - Advanced Python 2\nChapter 13 - Practice Set\nProject 3 - Library Management System\n►Checkout my English channel here: https://www.youtube.com/ProgrammingWithHarry\n►Click here to subscribe - https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww\n\nBest Hindi Videos For Learning Programming:\n►Learn Python In One Video - https://www.youtube.com/watch?v=ihk_Xglr164\n\n►Python Complete Course In Hindi - https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME\n\n►C Language Complete Course In Hindi -  \nhttps://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR&disable_polymer=true\n\n►JavaScript Complete Course In Hindi - \n https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL\n\n►Learn JavaScript in One Video - https://www.youtube.com/watch?v=onbBV0uFVpo\n\n►Learn PHP In One Video - https://www.youtube.com/watch?v=xW7ro3lwaCI\n\n►Django Complete Course In Hindi -  \nhttps://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9\n\n►Machine Learning Using Python - https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG\n\n►Creating & Hosting A Website (Tech Blog) Using Python - https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf\n\n►Advanced Python Tutorials - https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4\n\n►Object Oriented Programming In Python - https://www.youtube.com/playlist?list=PLu0W_9lII9ahfRrhFcoB-4lpp9YaBmdCP\n\n►Python Data Science and Big Data Tutorials - https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH\n\nFollow Me On Social Media\n►Website (created using Flask) - http://www.codewithharry.com\n►Facebook - https://www.facebook.com/CodeWithHarry\n►Instagram - https://www.instagram.com/codewithharry/\n►Personal Facebook A/c - https://www.facebook.com/geekyharis\nTwitter - https://twitter.com/Haris_Is_Here",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gfDE2a7MKjA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gfDE2a7MKjA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gfDE2a7MKjA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/gfDE2a7MKjA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/gfDE2a7MKjA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CodeWithHarry",
+            "tags": [
+                "Python Tutorial in Hindi",
+                "Learn Python in Hindi",
+                "Python Full Course in Hindi",
+                "Python Tutorial for beginners",
+                "python hindi",
+                "complete python tutorial",
+                "python tutorial by harry",
+                "python tutorial code with harry",
+                "python tutorial by Harry bhai",
+                "python tutorial in hindi",
+                "python class 10 cbse",
+                "python tutorial",
+                "python class 12",
+                "learn python for free",
+                "python course in hindi free",
+                "hindi course python",
+                "learn python hindi",
+                "hindi tutorial on python",
+                "python programming tutorial in hindi"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Python Tutorial For Beginners In Hindi (With Notes) 🔥",
+                "description": "Learn Python One Video in Hindi: This Python Programming in Hindi tutorial is a complete python course in Hindi comprising of 13 Python chapters and 3 Python Projects. After watching this course you can learn Python programming easily in Hindi. This Python programming course for beginners in Hindi is designed keeping in mind the current trend and recent changes in Python. This course is designed to teach Python to beginners making it one of the best sources to learn python in Hindi for beginners. Get ready to learn python programming in a fun way and make sure to download the python notes which are included with this video. Hope you enjoy this course on python programming for beginners in Hindi.\nDownload Python in Hindi Notes & Other Material: \nhttps://www.codewithharry.com/videos/python-tutorial-easy-for-beginners \n►TimeStamps:\nCourse Logistics: 00:00:00\nChapter 0 - Introduction: 00:08:58\nChapter 1 - Modules, Comments & Pip: 00:14:17\nChapter 1 - Practice Set: 00:33:10\nChapter 2 - Variables & Data Types: 00:44:35\nChapter 2 - Practice Set: 01:25:10\nChapter 3 - Strings: 01:39:10\nChapter 3 - Practice Set: 02:16:56\nChapter 4 - Lists & Tuples: 02:35:04\nChapter 4 - Practice Set: 03:07:10\nChapter 5 - Dictionary & Sets: 03:20:12\nChapter 5 - Practice Set: 03:57:25\nChapter 6 - Conditional Expressions: 04:19:21\nChapter 6 - Practice Set: 04:48:53\nChapter 7 - Loops in Python: 05:14:34\nChapter 7 - Practice Set: 05:45:11\nChapter 8 - Functions & Recursion: 06:07:35\nChapter 8 - Practice Set: 06:36:28\nProject 1 - Snake, Water, Gun Game: 06:52:30\nChapter 9 - File I/O: 07:06:55\nChapter 9 - Practice Set: 07:28:11\nChapter 10 - Object Oriented Programming: 08:08:38\nChapter 10 - Practice Set: 09:17:22\nChapter 11 - Inheritance: 09:48:30\nChapter 11 - Practice Set: 10:55:24\nProject 2 - The Perfect Guess  11:37:01\n\nPart 2 of this video: https://www.youtube.com/watch?v=61a7UkDO50s\n►Covered in Part 2 of this Video:\nChapter 12 - Advanced Python 1\nChapter 12 - Practice Set\nChapter 13 - Advanced Python 2\nChapter 13 - Practice Set\nProject 3 - Library Management System\n►Checkout my English channel here: https://www.youtube.com/ProgrammingWithHarry\n►Click here to subscribe - https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww\n\nBest Hindi Videos For Learning Programming:\n►Learn Python In One Video - https://www.youtube.com/watch?v=ihk_Xglr164\n\n►Python Complete Course In Hindi - https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME\n\n►C Language Complete Course In Hindi -  \nhttps://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR&disable_polymer=true\n\n►JavaScript Complete Course In Hindi - \n https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL\n\n►Learn JavaScript in One Video - https://www.youtube.com/watch?v=onbBV0uFVpo\n\n►Learn PHP In One Video - https://www.youtube.com/watch?v=xW7ro3lwaCI\n\n►Django Complete Course In Hindi -  \nhttps://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9\n\n►Machine Learning Using Python - https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG\n\n►Creating & Hosting A Website (Tech Blog) Using Python - https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf\n\n►Advanced Python Tutorials - https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4\n\n►Object Oriented Programming In Python - https://www.youtube.com/playlist?list=PLu0W_9lII9ahfRrhFcoB-4lpp9YaBmdCP\n\n►Python Data Science and Big Data Tutorials - https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH\n\nFollow Me On Social Media\n►Website (created using Flask) - http://www.codewithharry.com\n►Facebook - https://www.facebook.com/CodeWithHarry\n►Instagram - https://www.instagram.com/codewithharry/\n►Personal Facebook A/c - https://www.facebook.com/geekyharis\nTwitter - https://twitter.com/Haris_Is_Here"
+            },
+            "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+            "duration": "PT11H52M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": True,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "statistics": {
+            "viewCount": "5415437",
+            "likeCount": "206465",
+            "dislikeCount": "2384",
+            "favoriteCount": "0",
+            "commentCount": "56133"
+        },
+        "topicDetails": {
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Knowledge"
+            ]
+        }
+    }],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

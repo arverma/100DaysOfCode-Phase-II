@@ -3,9 +3,11 @@ order_item
 ----------
 
 order_id
+
 item_id
 order_ts
 order_quantity
+
 order_item_amount
 
 a 10 1
@@ -15,6 +17,17 @@ d 9 1
 
 
 Write a query to print the top 10 selling items quantity yesterday.
+
+
+with yesterday_order_data as(
+    select * from order where order_ts >= dateadd(day,datediff(day,1,GETDATE()),0
+), consolidated_order_data as(
+    select item_id, sum(order_quantity) as net_item_sold from yesterday_order_data group by item_id
+)
+select item_id, net_quantity_sold, ROW_NUMBER() OVER(ORDER BY net_quantity_sold DESC) as row_num from consolidated_order_data where row_num <=10;
+
+
+
 
 iteam, quantity
 

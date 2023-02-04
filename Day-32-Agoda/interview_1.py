@@ -1,28 +1,28 @@
 # import requests
 # import mysql.connector
 # import pandas as pd
-
+#
 # print('Hello')
-
-
+#
+#
 #    Print out `line` `count` times
-
+#
 #    printMe(3, “Hello”)
-
+#
 #    Hello
 #    Hello
 #    Hello
-
+#
 #    public static void printMe(int count, String line) {
-
+#
 #   }
-
+#
 #  def printMe(n, line):
 #      if n <= 0:
 #          return
 #      print(line)
 #      printMe(n-1, line)
-
+#
 # printMe(3, "Hello")
 
 
@@ -81,5 +81,4 @@ output = group_anagram(input_list)
 print(output)
 
 # Scaling:
-# Given DB supporting 200 reads/sec
-# Scale to support 600 reads/sec
+# Given DB supporting 200 reads/sec Scale to support 600 reads/sec
